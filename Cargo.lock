@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rerat"
+name = "hsrs"
 version = "0.1.0"
