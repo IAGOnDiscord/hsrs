@@ -1,4 +1,4 @@
-# rerat
+# HSRS
 
 A horizontally spinning rat TUI program. It can do other ASCII animations too, I guess.
 
