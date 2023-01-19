@@ -4,4 +4,4 @@ A horizontally spinning rat TUI program, written in Rust. It can do other ASCII 
 
 The best jokes are the ones that you take way too far.
 
-**Currently a work in progress.**
+**Currently a work in progress.** See issue tracker for more details.
