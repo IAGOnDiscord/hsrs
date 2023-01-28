@@ -1,3 +1,5 @@
+#### This project is developed on Gitlab. Please direct any issues there. I may not respond to any issues made here on Github.
+
 # HSRS
 
 A horizontally spinning rat TUI program, written in Rust. It can do other ASCII animations too, I guess.
