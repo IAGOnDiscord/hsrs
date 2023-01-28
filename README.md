@@ -1,4 +1,4 @@
-#### This project is developed on Gitlab. This repository is left here for archival purposes. No new developments will be made here.
+#### This project is developed on Gitlab.
 
 # HSRS
 
