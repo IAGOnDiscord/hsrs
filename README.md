@@ -1,5 +1,3 @@
-#### This project is developed on Codeberg.
-
 # HSRS
 
 A horizontally spinning rat TUI program, written in Rust. It can do other ASCII animations too, I guess.
