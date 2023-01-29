@@ -1,4 +1,4 @@
-#### This project is developed on Gitlab.
+#### This project is developed on Codeberg.
 
 # HSRS
 
